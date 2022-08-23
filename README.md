@@ -1,5 +1,5 @@
-<h3 align="center">Echo Wallet</h3>
-<p align="center">Platform Bank Sampah Digital 2022</p>
+<h1 align="center">Echo Wallet</h1>
+<h2 align="center">Platform Bank Sampah Digital 2022</h2>
 <img src="./src/assets/banner.png" />
 
 ## Languages and Tools
