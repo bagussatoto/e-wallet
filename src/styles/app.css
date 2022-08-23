@@ -1,0 +1,14 @@
+/* Google fonts */
+/* Poppins */
+
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;300;400;500;600;700&display=swap');
+
+* {
+	font-family: 'Gothic A1', sans-serif;
+	user-select: none;
+}
+
+/* Global Class */
+.responsive-container {
+	@apply w-full md:w-6/12 lg:w-5/12 md:mx-auto xl:w-4/12;
+}
