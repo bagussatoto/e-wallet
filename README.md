@@ -1,6 +1,9 @@
 <h1 align="center">Echo Wallet</h1>
 <h2 align="center">Platform Bank Sampah Digital 2022</h2>
 
+<img alt="Gambar" src="https://user-images.githubusercontent.com/87259393/186087417-70d45e87-e887-4e2e-a374-2c747df1ae8d.png">
+
+
 ## Languages and Tools
 - Vue JS 3
 - Tailwind
