@@ -3,11 +3,11 @@
 		<template v-slot:start>
 			<div class="flex w-7/12 gap-3">
 				<span>
-					<img src="/avatar.jpg" class="rounded-full" width="50" />
+					<img src="/owner.jpg" class="rounded-full" width="50" />
 				</span>
 				<div class="text-gray-300">
 					<p class="font-semibold text-xl">{{ fullname }}</p>
-					<small class="font-medium text-sm">Hay, selamat pagi</small>
+					<small class="font-medium text-sm">Hay, Apakabar 👋🏽</small>
 				</div>
 			</div>
 		</template>
