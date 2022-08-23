@@ -16,9 +16,16 @@
 - Termux
 - Neovim
 
+### How to enter dashboard
+
+|     Username    | Password           |
+|-----------------|--------------------|
+|   user          |  user1234          |
+
+
 ### How to install
 - <code>git clone https://github.com/bagussatoto/e-wallet.git </code>
-- <code>cd e-wallet
+- <code>cd e-wallet</code>
 - <code>npm install</code>
 - <code>npm run dev</code>
 
