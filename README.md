@@ -1,6 +1,5 @@
 <h1 align="center">Echo Wallet</h1>
 <h2 align="center">Platform Bank Sampah Digital 2022</h2>
-<img src="./src/assets/banner.png" />
 
 ## Languages and Tools
 - Vue JS 3
@@ -20,7 +19,7 @@
 
 |     Username    | Password           |
 |-----------------|--------------------|
-|   user          |  user1234          |
+|   bagus          |  bagus1234          |
 
 
 ### How to install
