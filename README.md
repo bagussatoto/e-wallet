@@ -1,7 +1,7 @@
 <h1 align="center">Echo Wallet</h1>
 <h2 align="center">Platform Bank Sampah Digital 2022</h2>
 
-<img alt="Gambar" src="https://user-images.githubusercontent.com/87259393/186087417-70d45e87-e887-4e2e-a374-2c747df1ae8d.png">
+<img width="310"  alt="login" src="https://user-images.githubusercontent.com/87259393/186096205-213bc2bb-7ca9-4500-b949-84a387beb144.png"> <img alt="dasboard" src="https://user-images.githubusercontent.com/87259393/186087417-70d45e87-e887-4e2e-a374-2c747df1ae8d.png">
 
 
 ## Languages and Tools
@@ -22,7 +22,7 @@
 
 |     Username    | Password           |
 |-----------------|--------------------|
-|   bagus          |  bagus1234          |
+|   bagus          |  bagus1234        |
 
 
 ### How to install
