@@ -3,7 +3,7 @@ import { defineStore } from 'pinia'
 export const useUser = defineStore('user', {
 	state() {
 		return {
-			fullname: 'Bagus Budi Satoto',
+			fullname: 'Bagus Satoto',
 			password: 'bagus1234',
 			username: 'bagus',
 			highlights: [
