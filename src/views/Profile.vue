@@ -3,9 +3,9 @@
 		<Header :useArrow="false" title="Profil" sub="Atur akun dan data diri anda" />
 		<section class="mt-20">
 			<div class="w-10/12 mx-auto flex flex-col items-center text-gray-300">
-				<img class="rounded-full border-2 border-gray-500" width="150" src="/avatar.jpg" />
+				<img class="rounded-full border-2 border-gray-500" width="150" src="/owner.jpg" />
 				<h1 class="font-semibold mt-4 text-xl">{{ fullname }}</h1>
-				<p class="text-sm">Akun tedaftar sejak 20/1/2022</p>
+				<p class="text-sm">Akun tedaftar sejak 20/08/2022</p>
 			</div>
 		</section>
 		<section class="mt-10 flex justify-between gap-2">
