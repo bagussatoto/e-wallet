@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@splidejs/vue-splide": "^0.5.18",
+    "@splidejs/vue-splide": "^0.6.8",
     "autoprefixer": "^10.4.2",
     "pinia": "^2.0.10",
     "postcss": "^8.4.5",
