@@ -4,7 +4,7 @@ export const useUser = defineStore('user', {
 	state() {
 		return {
 			fullname: 'Bagus Satoto',
-			password: 'bagus1234',
+			password: 'bagus1',
 			username: 'bagus',
 			highlights: [
 				{
