@@ -10,7 +10,7 @@
   "dependencies": {
     "@splidejs/vue-splide": "^0.6.12",
     "autoprefixer": "^10.4.2",
-    "pinia": "^2.0.10",
+    "pinia": "^4.0.0",
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.18",
     "vue": "^3.2.25",
